@@ -11,7 +11,7 @@ document.getElementById('hegy').style.marginTop = ybox/2;
 </script>
 </head>
 <body>
-<div id="main" style="width:100%;background-image: url('back.jpeg');color:white;">
+<div id="main" style="width:100%;background-image: url('back.jpeg')";color:white;">
 <center><h1 id ="hegy">The true...</h1></center>
 </div>
 <body>
