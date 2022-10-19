@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<div style="width:100%;background-image: url('back.jpg');color:white;">
+<div style="width:100%;background-image: url('back.jpeg');color:white;">
 <center><h1>The true...</h1></center>
 </div>
 <body>
