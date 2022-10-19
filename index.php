@@ -4,10 +4,15 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="author" content="Seo Marketing">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script>
+var ybox = window.innerHeight;
+document.getElementById('main').style.height = ybox;
+document.getElementById('hegy').style.marginTop = ybox/2;
+</script>
 </head>
 <body>
-<div style="width:100%;background-image: url('back.jpeg');color:white;">
-<center><h1>The true...</h1></center>
+<div id="main" style="width:100%;background-image: url('back.jpeg');color:white;">
+<center><h1 id ="hegy">The true...</h1></center>
 </div>
 <body>
 </html>
